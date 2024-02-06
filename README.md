@@ -15,4 +15,6 @@ git add <filename>
 #to commit the changes
 git commit -m "commit message"
 
+#to push the changes
+git push origin <branch name>
 
